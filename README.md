@@ -4,7 +4,7 @@ A reverse shell generator written in bash
 I got bored lmao
 This is shite don't use it 
 
-Todo if I can be bothered:
+Todo if I can be bothered probs never:
 
 - add msfvenom options
 - maybe make an interactive menu
