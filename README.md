@@ -1,7 +1,10 @@
 # ShellGen
 A reverse shell generator written in bash
 
-Todo:
+I got bored lmao
+This is shite don't use it 
+
+Todo if I can be bothered:
 
 - add msfvenom options
 - maybe make an interactive menu
